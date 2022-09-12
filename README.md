@@ -1,6 +1,7 @@
 <div style="width:100%">
-<img style="width:100%" height="400px" src="https://miro.medium.com/max/1050/0*FGD6BUzzZs1VJLuY.gif"      />
+<img style="width:100vw" height="400px" src="https://miro.medium.com/max/1050/0*FGD6BUzzZs1VJLuY.gif"      />
 </div>
+<!-- [![MasterHead](https://miro.medium.com/max/1050/0*FGD6BUzzZs1VJLuY.gif)]() -->
 <h1 align="center">Hi 👋, I'm Elkafhi Youssef</h1>
 <h3 align="center">A passionate Blockchain developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
